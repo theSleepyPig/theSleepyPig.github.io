@@ -6,8 +6,8 @@ positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 
-- logo: /assets/images/badges/bupt.jpg
-  name: Final-year Undergraduate, BUPT
+- name: Final-year Undergraduate, BUPT
+# logo: /assets/images/badges/bupt.jpg
   
 - name: Joint Program with Queen Mary University of London
   # logo: /assets/images/badges/quml.png
