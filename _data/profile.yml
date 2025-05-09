@@ -55,7 +55,7 @@ education:
 
 experience:
 - name: University of Sydney
-  logo: /assets/images/badges/usyd.png
+  # logo: /assets/images/badges/usyd.png
   position: Research Intern, School of Computer Science <br/>
     Advised by Prof. Chang Xu
   date: Jun. 2024 – Present
