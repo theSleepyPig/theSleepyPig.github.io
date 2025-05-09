@@ -13,7 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+# baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+title: "abc"
+email: xxx@email.com
+description: >-
+  This is your academic homepage. You can write a short description here.
+baseurl: ""  # 如果仓库名是 yourusername.github.io，则必须留空
+url: "https://theSleepyPig.github.io"
 
 # Build settings
 markdown: kramdown
