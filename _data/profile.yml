@@ -23,12 +23,19 @@ twitter: your_twitter_idxxx  # Do not include the '@' symbol
 
 short_bio_text_justify: false
 short_bio: >-
+  # <p>
+  #   I am a final-year undergraduate student at the <strong>Beijing University of Posts and Telecommunications (BUPT)</strong>, majoring in e-Commerce Engineering with Law.
+  #   My current research interests include xxx.
+  # </p>
+  # <p>
+  #   I have conducted research xxx
+  # </p>
   <p>
-    I am a final-year undergraduate student at the <strong>Beijing University of Posts and Telecommunications (BUPT)</strong>, majoring in e-Commerce Engineering with Law.
-    My current research interests include xxx.
+     I am a final-year undergraduate student at <strong>Beijing University of Posts and Telecommunications (BUPT)</strong>, majoring in e-Commerce Engineering with Law, in a joint program with <strong>Queen Mary University of London</strong>.
   </p>
   <p>
-    I have conducted research xxx
+    My research interests include <strong>Large Language Models (LLMs)</strong>, <strong>Legal AI</strong>, <strong>Retrieval-Augmented Generation</strong>, and <strong>Adversarial Robustness</strong>.
+    I have co-authored a paper on randomized adversarial defense accepted to ICML 2025.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
