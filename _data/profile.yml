@@ -9,7 +9,7 @@ positions:
 - name: Final-year Undergraduate, BUPT
   logo: /assets/images/badges/bupt.jpg
 - name: Joint Program with Queen Mary University of London
-  logo: /assets/images/badges/quml.png
+  # logo: /assets/images/badges/quml.png
 
 
 email: "hzx707482606@gmail.com"
