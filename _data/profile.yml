@@ -53,24 +53,24 @@ education:
     International School
   date: Sep. 2021 - July. 2025
 
-experience:
-- name: University of Sydney
-  # logo: /assets/images/badges/usyd.png
-  position: Research Intern, School of Computer Science <br/>
-    Advised by Prof. Chang Xu
-  date: Jun. 2024 - Present
+# experience:
+# - name: University of Sydney
+#   # logo: /assets/images/badges/usyd.png
+#   position: Research Intern, School of Computer Science <br/>
+#     Advised by Prof. Chang Xu
+#   date: Jun. 2024 - Present
 
-- name: BUPT Experimental Center
-  position: Web System Developer <br/> Robot Data Management Website (JSP+Servlet)
-  date: Jun. 2023 - Dec. 2023
+# - name: BUPT Experimental Center
+#   position: Web System Developer <br/> Robot Data Management Website (JSP+Servlet)
+#   date: Jun. 2023 - Dec. 2023
 
-- name: China Mobile R&D Center
-  position: Machine Learning Intern (Fruit Recognition, ResNet/Vision Transformer)
-  date: 2023
+# - name: China Mobile R&D Center
+#   position: Machine Learning Intern (Fruit Recognition, ResNet/Vision Transformer)
+#   date: 2023
 
-- name: China Mobile Group Design Institute
-  position: Front-end/Back-end Intern (HTML/CSS/Vue)
-  date: Jul. 2022 - Aug. 2022
+# - name: China Mobile Group Design Institute
+#   position: Front-end/Back-end Intern (HTML/CSS/Vue)
+#   date: Jul. 2022 - Aug. 2022
 
 awards:
 - name: Third-class Scholarship of BUPT
