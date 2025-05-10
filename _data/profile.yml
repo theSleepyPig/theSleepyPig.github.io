@@ -56,7 +56,7 @@ education:
 
 experience:
 - name: University of Sydney
-  logo: /assets/images/badges/usdy.jpg
+  logo: /assets/images/badges/usyd.jpg
   position: >-
     Research Intern, School of Computer Science <br/>
     Supervised by Prof. Chang Xu <br/>
@@ -74,7 +74,7 @@ experience:
   date: 2023
 
 - name: China Mobile Group Design Institute
-  logo: /assets/images/badges/CMDI.jpg
+  logo: /assets/images/badges/CMDI.png
   position: Front-end/Back-end Intern (HTML/CSS/Vue)
   date: Jul. 2022 - Aug. 2022
 
