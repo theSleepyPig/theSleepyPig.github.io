@@ -11,8 +11,8 @@ pub_date:       "2025"
 # abstract: 1
 cover:          /assets/images/covers/DCS.png
 authors:
-  - Yanxiang Ma
-  - Zixuan Huang
+  - Yanxiang Ma*
+  - Zixuan Huang*
   - Minjing Dong
   - Shan You
   - Chang Xu
