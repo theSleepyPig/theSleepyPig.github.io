@@ -8,7 +8,7 @@ pub:            "Forty-second International Conference on Machine Learning"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2025"
 
-abstract: 1
+# abstract: 1
 cover:          /assets/images/covers/DCS.png
 authors:
   - Yanxiang Ma
