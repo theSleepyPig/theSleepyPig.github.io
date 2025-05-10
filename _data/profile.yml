@@ -56,23 +56,25 @@ education:
 
 experience:
 - name: University of Sydney
-  logo: /assets/images/badges/quml.png
-  position: Research Intern, School of Computer Science <br/>
-    Advised by Prof. Chang Xu
+  logo: /assets/images/badges/usdy.jpg
+  position: >-
+    Research Intern, School of Computer Science <br/>
+    Supervised by Prof. Chang Xu <br/>
+    Research on randomized adversarial defense methods for robust image classification
   date: Jun. 2024 - Present
 
 - name: BUPT Experimental Center
-  logo: /assets/images/badges/quml.png
+  logo: /assets/images/badges/bupt.jpg
   position: Web System Developer <br/> Robot Data Management Website (JSP+Servlet)
   date: Jun. 2023 - Dec. 2023
 
 - name: China Mobile R&D Center
-  logo: /assets/images/badges/quml.png
+  logo: /assets/images/badges/CMCC.jpg
   position: Machine Learning Intern (Fruit Recognition, ResNet/Vision Transformer)
   date: 2023
 
 - name: China Mobile Group Design Institute
-  logo: /assets/images/badges/quml.png
+  logo: /assets/images/badges/CMDI.jpg
   position: Front-end/Back-end Intern (HTML/CSS/Vue)
   date: Jul. 2022 - Aug. 2022
 
