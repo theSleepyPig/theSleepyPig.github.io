@@ -77,6 +77,14 @@ experience:
   position: Front-end/Back-end Intern (HTML/CSS/Vue)
   date: Jul. 2022 - Aug. 2022
 
+- name: Office of the Volunteer Association, International School, BUPT
+  logo: /assets/images/badges/volun.jpg  # 记得将图标文件命名为 hongyan.png 并放入该路径
+  position: >-
+    Finance Team Leader <br/>
+    Organized Lei Feng Month activities, led volunteer evaluation meetings and inter-school exchanges <br/>
+    Managed department-wide finances and budgeting responsibilities
+  date: Oct. 2021 – Jun. 2023
+
 awards:
 - name: Third-class Scholarship of BUPT
   date: 2022, 2023
