@@ -31,7 +31,6 @@ short_bio: >-
   </p>
   <p>
     My research interests include  <strong>Computer Vision</strong>, <strong>Adversarial Robustness</strong>, <strong>Large Language Models</strong>, <strong>Legal AI</strong>, <strong>Retrieval-Augmented Generation</strong>.
-    I have co-authored a paper on randomized adversarial defense accepted to ICML 2025.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -50,8 +49,8 @@ education:
 - name: Beijing University of Posts and Telecommunications
   logo: /assets/images/badges/bupt.jpg
   position: >- 
-    B.Eng. in e-Commerce Engineering with Law <br/>
-    International School
+  International School
+  Joint Program with Queen Mary University of London
   date: Sep. 2021 - July. 2025
 
 experience:
