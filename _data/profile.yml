@@ -32,6 +32,9 @@ short_bio: >-
   <p>
     My research interests include  <strong>Computer Vision</strong>, <strong>Adversarial Robustness</strong>, <strong>Large Language Models</strong>, <strong>Legal AI</strong>, <strong>Retrieval-Augmented Generation</strong>.
   </p>
+  <p>
+    During my research internship at the University of Sydney, I collaborated on a randomized adversarial defense project under the guidance of the senior researcher, which was accepted to <strong>ICML 2025</strong>. I am currently completing my undergraduate thesis on <strong>legal large language models</strong>.
+  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_url: /assets/images/photos/zixuan.jpg 
